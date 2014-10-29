@@ -1,0 +1,11 @@
+{
+  "name": "csl-traits",
+  "version": "0.1.0",
+  "description": "a list of csl traits",
+  "author": "Nick Jackson <contact@nickjjackson.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/citeac/csl-traits.git"
+  }
+}
